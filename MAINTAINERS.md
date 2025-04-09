@@ -1,8 +1,11 @@
 # Organization Maintainers
 
-| Maintainer     | GitHub      |
-|----------------|-------------|
-| Alex Jones     | @AlexsJones |
-| Thomas Schuetz | @thschue    |
+| Maintainer             | GitHub             |
+|------------------------|--------------------|
+| Alex Jones             | @AlexsJones        |
+| Matthis Holleville     | @matthisholleville |
+| Aris Boutselis         | @arbreezy          |
+
+
 
 
